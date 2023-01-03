@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Rodriguez</h1>
 <h3 align="center">Full Stack Software Engineer</h3>
 
-- 👨‍💻 All of my projects are available at [DavidCodes.tech](DavidCodes.tech)
+- 👨‍💻 All of my projects are available at [DavidCodes.tech](DavidCodestech.netlify.app)
 
 - 📫 How to reach me **David.Rod1865@gmail.com**
 
