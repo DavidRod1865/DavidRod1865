@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Rodriguez</h1>
-<h3 align="center">A passionate full-stack software engineer from New York</h3>
+<h3 align="center">A passionate oftware engineer from New York</h3>
 
-- 👨‍💻 All of my projects are available at [www.davecodes.tech](www.davecodes.tech)
+- 👨‍💻 All of my projects are available at [DaveCodesTech.netlify.app]DaveCodesTech.netlify.app)
 
-- 📫 How to reach me **David.Rod1865@gmail.com**
+- 📫 How to reach me **D.Rodriguez.1865@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/david-rodriguez1865/](https://www.linkedin.com/in/david-rodriguez1865/)
 
