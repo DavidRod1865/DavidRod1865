@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Rodriguez</h1>
 <h3 align="center">A passionate oftware engineer from New York</h3>
 
-- 👨‍💻 All of my projects are available at [DaveCodesTech.netlify.app](DaveCodesTech.netlify.app)
+- 👨‍💻 All of my projects are available at [DaveBuilds.tech](DaveBuilds.Tech)
 
 - 📫 How to reach me **D.Rodriguez.1865@gmail.com**
 
